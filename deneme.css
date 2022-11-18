@@ -17,3 +17,14 @@ ul>li:first-child{
 ul> li:last-child{
     color:yellow
 }
+h1 {color: red; font-size: 24; font-style: bold; text-align: center;}
+.duzen1 {
+    text-align: center;    
+}
+.bilgi {
+    text-align: center;
+}
+.aletler {
+    text-align: center;
+    color: yellow;
+}
